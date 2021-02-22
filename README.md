@@ -30,8 +30,9 @@ More health data focused applications, datasets and other resources are availabl
 * [SemEHR](https://github.com/CogStack/CogStack-SemEHR): a text mining and semantic search system designed for Surfacing Semantic Data from Clinical Notes in Electronic Health Records for Tailored Care, Trial Recruitment and Clinical Research.  
 * [SIPHS](https://siphs.org/resources): a collection of software and datasets to support linguistic analysis of online health communities.     
 
-## Datasets  
+## Datasets & models
 
+* [BioReddit](https://github.com/basaldella/bioreddit): a set of word embeddings (GloVe, ELMo, Flair) trained on medical subreddits. The embeddings are trained on ~800,000 Reddit posts from over 60 medical-themed communities.
 * [Biomedical ambiguities: abbreviations and gene names](http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/BioWSD/corpora/): corpora containing examples of two ambiguities from the biomedical domain (abbreviations and gene names).    
 * [Cardiovascular research abstracts](http://staffwww.dcs.shef.ac.uk/people/M.Stevenson/resources/bio_contradictions/): corpus containing examples of potentially contradictory claims from Medline abstracts describing cardiovascular research intended as a useful resource for researchers working on similar problems.  
 * [COMETA](https://github.com/cambridgeltl/cometa): an entity linking dataset of layman medical terminology collected by analysing four years of content in 68 health-themed subreddits.  
